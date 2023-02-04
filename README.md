@@ -1,4 +1,4 @@
-# Amiya
+# :racehorse:  Amiya :rabbit2:
 Amiya是一个提供开放域条件文本生成能力、具有少女人格的AI助手。
 
 Amiya不对标chatGPT及其他任意相似产品，chatGPT面向通用领域，Amiya面向趣味、泛生活领域。chatGPT等产品一般更给具备信息量和专业性，而Amiya的回复会更具备人格化、在信息量和专业性上做出了trade off（不做我也对标不了chatGPT）.
@@ -10,12 +10,12 @@ Amiya不对标chatGPT及其他任意相似产品，chatGPT面向通用领域，A
 **本项目为玩具项目，模型训练中无任何安全考虑，使用过程中可能会生成让人不适的文本。使用者一旦使用本项目的模型权重，视作使用者为已经明确该情况和承担对应责任。因此，本项目对使用者滥用模型概不负责。**
 
 # roadmap
-- 开放代码+基础模型checkpoint **(coming soon)**
-- 领域数据微调+人格注入
-- web app形式
-- query 生成能力、具备联网查询能力
-- 多种形式、类型的query生成、拓展技能边界
-- RLHF（有机会的话）
+-  [ ] 开放代码+基础模型checkpoint **(coming soon)**
+-  [ ] 领域数据微调+人格注入
+-  [ ] web app形式
+-  [ ] query 生成能力、具备联网查询能力
+-  [ ] 多种形式、类型的query生成、拓展技能边界
+-  [ ] RLHF（有机会的话）
 
 # 其他
 
