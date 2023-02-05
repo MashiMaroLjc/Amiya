@@ -15,6 +15,14 @@ Amiya不对标chatGPT及其他任意相似产品。Amiya的应用场景是在闲
 # Update
 - 2023.2.5 开放源码和提供checkpoint(第一版本代码为chatYuan的代码.https://huggingface.co/ClueAI/ChatYuan-large-v1)
 
+
+# 依赖 
+
+- python3.8+
+- transformers 
+- pytorch
+- sentencepiece
+
 # roadmap
 -  [x] 开放代码+基础模型checkpoint 
 -  [ ] 领域数据微调+人格注入
@@ -25,4 +33,4 @@ Amiya不对标chatGPT及其他任意相似产品。Amiya的应用场景是在闲
 
 # 其他
 
-纯粹是觉得阿米娅（amiya）这名字好听，适合做一个自己的人工助手，先占个位置。基本的功能模型已经跑通，正在开发周边代码。
+纯粹是觉得阿米娅（amiya）这名字好听，适合做一个自己的人工助手，和明日方舟同名角色没啥关系。
